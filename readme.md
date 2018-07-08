@@ -1,0 +1,1 @@
+Demo project to show how async iterators in ECMA Script 2018 can be used.
